@@ -1,0 +1,2 @@
+*.resS filter=lfs diff=lfs merge=lfs -text
+Ad4m-s-Game-Prototype[[:space:]]Compiled/Ad4m's[[:space:]]Game_Data/*.resS filter=lfs diff=lfs merge=lfs -text

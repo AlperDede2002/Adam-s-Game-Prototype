@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Ground
+  - Bullet
+  - Spawner
+  - Eye
+  - SpawnerEye
+  - Mobs
+  - EnemyBullet
+  - Weapon
+  - ProjectileEye
+  - GridSlot
+  - Card
+  - VegasSphere
+  - Arena
+  - Projectile
+  - EnemyMeleeAttackRadius
+  - Grid
+  - SmallPuzzlePiece
+  - PuzzlePiece
+  - Picked
+  - ProjectileShooter
+  - Target
+  - ActionInfo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - DodgerProjectileSpawner
+  - EnemyMeleeAttackRadius
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
